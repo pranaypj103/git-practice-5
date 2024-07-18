@@ -1,1 +1,1 @@
-This is Sample text
+This is a Sample of how to use git and GitHub
